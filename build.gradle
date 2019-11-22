@@ -46,5 +46,5 @@ dependencies {
 defaultTasks 'test'
 
 test {
-	include 'product/controller/*'
+	include 'com/test/sample/controller/*'
 }
