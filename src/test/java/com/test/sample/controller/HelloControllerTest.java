@@ -9,7 +9,7 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 public class HelloControllerTest {
-
+	//test
 	private MockMvc mockMvc;
 
 	@Before
