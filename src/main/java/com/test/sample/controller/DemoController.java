@@ -59,6 +59,7 @@ public class DemoController {
 
     // formの値を保存
     //formService.saveData(form);
+    //testコメ
 
     mav.setViewName("ok");
     return mav;
